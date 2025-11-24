@@ -20,18 +20,20 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
 
 <div align="center" style="display:flex; gap:18px; align-items:center; justify-content:center; flex-wrap:wrap;">
 
-  <!-- Fallback 1: outro gerador de cards (às vezes funciona quando o outro falha) -->
+  <!-- Card Summary (funcionando) -->
   <img height="170"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FlavioOCampos&theme=tokyonight"
        alt="Profile Summary"/>
 
-  <!-- Fallback 2: badge que mostra se o serviço de stats está online (substitui imagem quebrada) -->
-  <img height="40" src="https://img.shields.io/badge/Stats-Fallback-blue?style=for-the-badge&logo=github" alt="Stats fallback"/>
+  <!-- Badge Fallback (corrigido — sem 404) -->
+  <img height="40"
+       src="https://img.shields.io/badge/Stats-Fallback-blue?style=for-the-badge&logo=github"
+       alt="Stats fallback"/>
 </div>
 
-<!-- Fallback: se as imagens acima não carregarem, o usuário verá este badge indicando problema -->
+<!-- Fallback extra opcional para indicar status do serviço -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Stats-service-check-blue?style=for-the-badge" alt="status-check"/>
+  <img src="https://img.shields.io/badge/Stats-service--check-blue?style=for-the-badge" alt="status-check"/>
 </p>
 
 > **Se as imagens de stats aparecerem quebradas:** abra estes links diretos no navegador para diagnóstico:
