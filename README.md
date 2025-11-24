@@ -1,79 +1,62 @@
-<!-- Banner ou apresentação -->
-<!-- GitHub Readme Stats (perfil) -->
-[![Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/FlavioOCampos)
-
-<!-- Top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=tokyonight)](https://github.com/FlavioOCampos)
-
-<!-- Streak (contribuição contínua) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlavioOCampos&theme=default)
-
-<!-- Trophy (badges/troféus rápidos) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=FlavioOCampos&theme=tokyonight)](https://github.com/FlavioOCampos)
+<h1 align="center">👋 Oiii! Eu sou o Flavio Campos</h1>
 
 <p align="center">
-Arquiteto migrando para a área de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por <strong>Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>.  
-Sempre buscando aprender algo novo e construir projetos práticos aqui no GitHub!
+Arquiteto migrando para a área de <strong>Desenvolvimento</strong>.<br>
+Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>.
 </p>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🎯 Minhas Estatísticas
 
-### 🌐 Front-End
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+<div align="center" style="display: flex; justify-content: center;">  
 
-### 🐍 Backend & Automação
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  <!-- CARD DE ESTATÍSTICAS -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 
-### 🔐 Segurança
-<img src="https://img.shields.io/badge/Security%20Basics-000000?style=for-the-badge&logo=probot&logoColor=white">
-
-### 🛠️ Ferramentas
-<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white">
+  <!-- CARD DE LINGUAGENS -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-## 💼 Projetos em Destaque
+## 🛠️ Tecnologias que uso
 
-### 🔥 Projetos Front-End
-- 🌐 Sites responsivos com HTML/CSS/JS  
-- 🛒 Protótipo de e-commerce com carrinho  
-- 🖼️ Projetos com **fundo animado infinito**  
-- 📱 Layouts simples e funcionais
-
-### 🧠 Lógica & Scripts
-- 🧮 Sistemas de cálculo com JavaScript  
-- 📋 Formulários inteligentes  
-- 🔧 Pequenas automações com Python
+<div style="display: flex; gap: 10px;">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🌐 Redes Sociais
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=tokyonight"/>
-</p>
+<div align="left">
+  <a href="#" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="#" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="#" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a href="#" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="#" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 ---
 
-## 🎯 Objetivos para 2025
-- Aprimorar HTML, CSS e JavaScript  
-- Evoluir em Python (automação e segurança)  
-- Construir portfólio sólido e profissional  
-- Entrar oficialmente na área de Desenvolvimento  
+<div align="center">
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" height="150" />
+  <p>💙 Obrigado por visitar o meu perfil!</p>
+</div>
 
----
-
-## 📫 Como falar comigo
-📧 Email: **coloque seu email aqui**  
-🔗 LinkedIn: **cole seu link aqui**
-
----
-
-<h3 align="center">⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios!</h3>
