@@ -104,3 +104,9 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
 </div>
 
 ---
+
+**Notas técnicas**
+
+- Para a foto aparecer no GitHub, faça upload de `foto3x4.jpg` na raiz do repositório e substitua o `src` acima por `https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg`.
+- Os cards de estatísticas usam `github-profile-summary-cards.vercel.app` (serviço público). Se quiser total disponibilidade e contar commits privados, autohospede `github-readme-stats` e eu te passo o passo-a-passo.
+- SVGs são animados via SMIL (atributos `<animate>`). GitHub costuma renderizar essas animações; se não animar, você verá a forma estática — ainda assim visual agradável.
