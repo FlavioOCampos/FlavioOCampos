@@ -8,14 +8,19 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=transparent" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+/>
 </p>
 
 ### 🔥 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=transparent" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+/>
 </p>
-
 ---
 
 ## 🌐 Social Links
