@@ -1,11 +1,6 @@
 <!-- README.md - Estilo: perfil moderno com cards de stats (corrigido) -->
 <h1 align="center">👋 Oiii! Eu sou o Flavio Campos</h1>
 
-<p align="center">
-Arquiteto migrando para a área de <strong>Desenvolvimento</strong>.<br>
-Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>.
-</p>
-
 <!-- Resumo Profissional -->
 <div align="center" style="margin-top:18px; margin-bottom:18px;">
   <div style="max-width:760px; text-align:left; padding:18px; border-radius:12px; 
@@ -35,6 +30,8 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
     </div>
   </div>
 </div>
+
+
 
 
 <div align="center" markdown="1">
