@@ -14,6 +14,20 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
   <p style="margin-top:8px">Desenvolvendo interfaces limpas, simples e eficientes. 🚀</p>
 </div>
 
+## 🔥 Top Languages
+
+<div align="center">
+
+<img height="170"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FlavioOCampos&theme=tokyonight"
+     alt="Most used languages by commits"/>
+
+<img height="170"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FlavioOCampos&theme=tokyonight"
+     alt="Languages by repos"/>
+
+</div>
+
 ---
 
 ## 🎯 Minhas Estatísticas
