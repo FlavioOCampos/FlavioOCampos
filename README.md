@@ -14,7 +14,10 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
   <p style="margin-top:8px">Desenvolvendo interfaces limpas, simples e eficientes. 🚀</p>
 </div>
 
----
+<!-- Wave decorativo (simples) -->
+<p align="center">
+  <img alt="wave" width="760" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" preserveAspectRatio="none"><path d="M0,30 C150,90 350,0 800,60 L800,0 L0,0 Z" fill="%23303b48"></path></svg>' />
+</p>
 
 ## 🎯 Minhas Estatísticas
 
@@ -51,7 +54,18 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
      alt="Languages by repos"/>
 
 </div>
+<!-- Animated SVGs: pulso, wave small, typing dots -->
 
+<p align="center">
+  <!-- Pulso -->
+  <img alt="pulsing" width="32" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="6" fill="%23FF6B6B"><animate attributeName="r" values="6;10;6" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle></svg>' />
+  &nbsp;&nbsp;
+  <!-- Small wave -->
+  <img alt="wave-small" width="120" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 20" preserveAspectRatio="none"><path d="M0,10 C30,20 60,0 200,10 L200,0 L0,0 Z" fill="%235A6B78"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0,10 C30,20 60,0 200,10 L200,0 L0,0 Z;M0,8 C40,0 80,18 200,10 L200,0 L0,0 Z;M0,10 C30,20 60,0 200,10 L200,0 L0,0 Z"/></path></svg>' />
+  &nbsp;&nbsp;
+  <!-- Typing dots -->
+  <img alt="typing" width="48" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="14" viewBox="0 0 60 14"><circle cx="6" cy="7" r="3" fill="%2396f2d7"><animate attributeName="r" dur="1s" values="3;1.5;3" repeatCount="indefinite" begin="0s"/></circle><circle cx="30" cy="7" r="3" fill="%23ffd166"><animate attributeName="r" dur="1s" values="3;1.5;3" repeatCount="indefinite" begin="0.2s"/></circle><circle cx="54" cy="7" r="3" fill="%2393c5ff"><animate attributeName="r" dur="1s" values="3;1.5;3" repeatCount="indefinite" begin="0.4s"/></circle></svg>' />
+</p>
 ---
 
 ## 🌐 Minhas Redes
