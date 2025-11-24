@@ -7,7 +7,7 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran√
 
 <p align="center">
   <!-- foto local: quando subir ao GitHub, substitua por https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg -->
-  <img src="[html](https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg)" width="160" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.25)"/>
+  <img src="(https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg)" width="160" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.25)"/>
 </p>
 
 <!-- Resumo Profissional -->
