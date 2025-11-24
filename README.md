@@ -26,9 +26,7 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
        alt="Profile Summary"/>
 
   <!-- Fallback 2: badge que mostra se o serviço de stats está online (substitui imagem quebrada) -->
-  <img height="40"
-       src="https://img.shields.io/badge/GitHub-Stats--Fallback-blue?style=for-the-badge"
-       alt="Stats fallback"/>
+  <img height="40" src="https://img.shields.io/badge/Stats-Fallback-blue?style=for-the-badge&logo=github" alt="Stats fallback"/>
 </div>
 
 <!-- Fallback: se as imagens acima não carregarem, o usuário verá este badge indicando problema -->
