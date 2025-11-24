@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="/mnt/data/foto3x4.jpg" alt="Profile Photo" width="250" style="border-radius:20px;">
+  <img src="https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg" alt="Profile Photo" width="250" style="border-radius:20px;">
 </p>
 
 ## 🚀 Flávio Campos
