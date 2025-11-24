@@ -36,10 +36,6 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
   <img src="https://img.shields.io/badge/Stats-service--check-blue?style=for-the-badge" alt="status-check"/>
 </p>
 
-> **Se as imagens de stats aparecerem quebradas:** abra estes links diretos no navegador para diagnóstico:
-> - `https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=tokyonight&hide_border=true`
-> - `https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=tokyonight&hide_border=true`
-
 ---
 
 ## 🔥 Top Languages
