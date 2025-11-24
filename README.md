@@ -6,6 +6,37 @@ Arquiteto migrando para a área de <strong>Desenvolvimento</strong>.<br>
 Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>.
 </p>
 
+<!-- Resumo Profissional -->
+<div align="center" style="margin-top:18px; margin-bottom:18px;">
+  <div style="max-width:760px; text-align:left; padding:18px; border-radius:12px; 
+              background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+              box-shadow: 0 6px 20px rgba(0,0,0,0.45);">
+    <h3 style="margin:0 0 6px 0;">📌 Resumo Profissional</h3>
+    <p style="margin:0 0 8px 0; color:#bfc7d6;">
+      Arquiteto em transição para Desenvolvimento de Software — foco em Front-End, Python e Segurança. 
+      Construo interfaces limpas, protótipos de e-commerce e pequenas automações. Procuro oportunidades para aplicar design e lógica em projetos reais.
+    </p>
+
+    <div style="display:flex; gap:12px; margin-top:10px;">
+      <div style="flex:1; min-width:160px;">
+        <strong>🔧 Habilidades</strong>
+        <div style="color:#c7d2e0; margin-top:6px;">HTML, CSS, JavaScript, Python</div>
+      </div>
+
+      <div style="flex:1; min-width:160px;">
+        <strong>🎯 Objetivo</strong>
+        <div style="color:#c7d2e0; margin-top:6px;">Front-end + automação, com foco em UX simples</div>
+      </div>
+
+      <div style="flex:1; min-width:160px;">
+        <strong>📂 Disponível para</strong>
+        <div style="color:#c7d2e0; margin-top:6px;">Freela / PJ / Portfólio colaborativo</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <div align="center" markdown="1">
   <!-- Opção local (este caminho funciona no ambiente onde geramos o README) -->
   <img alt="Flavio (local)" src="https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg" width="180" style="border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25)"/>
