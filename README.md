@@ -1,5 +1,15 @@
 <!-- Banner ou apresentação -->
-<h1 align="center">👋 Olá, eu sou o Flavio!</h1>
+<!-- GitHub Readme Stats (perfil) -->
+[![Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/FlavioOCampos)
+
+<!-- Top languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=tokyonight)](https://github.com/FlavioOCampos)
+
+<!-- Streak (contribuição contínua) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlavioOCampos&theme=default)
+
+<!-- Trophy (badges/troféus rápidos) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=FlavioOCampos&theme=tokyonight)](https://github.com/FlavioOCampos)
 
 <p align="center">
 Arquiteto migrando para a área de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por <strong>Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>.  
