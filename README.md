@@ -20,15 +20,15 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
 
 <div align="center" style="display:flex; gap:18px; align-items:center; justify-content:center; flex-wrap:wrap;">
 
-  <!-- GitHub stats: se ficar quebrado, pode ser problema temporário do serviço -->
+  <!-- Fallback 1: outro gerador de cards (às vezes funciona quando o outro falha) -->
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="Flavio's GitHub stats"/>
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FlavioOCampos&theme=tokyonight"
+       alt="Profile Summary"/>
 
-  <!-- Top languages -->
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Top languages"/>
+  <!-- Fallback 2: badge que mostra se o serviço de stats está online (substitui imagem quebrada) -->
+  <img height="40"
+       src="https://img.shields.io/badge/GitHub-Stats--Fallback-blue?style=for-the-badge"
+       alt="Stats fallback"/>
 </div>
 
 <!-- Fallback: se as imagens acima não carregarem, o usuário verá este badge indicando problema -->
