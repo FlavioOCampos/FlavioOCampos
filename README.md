@@ -7,7 +7,7 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
 
 <p align="center">
   <!-- foto local: quando subir ao GitHub, substitua por https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg -->
-  <img src="(https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg)" width="160" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.25)"/>
+  <img src="https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg" style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.25)"/>
 </p>
 
 <!-- Resumo Profissional -->
@@ -83,6 +83,34 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
 ## 🌐 Minhas Redes
 
 <p align="center">
+  <a href="https://www.youtube.com/@flaviodeoliveiracampos5433"><img height="34" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/foc2210"><img height="34" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/Flaviooc#4509"><img height="34" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:arq.flaviocampos@gmail.com"><img height="34" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-de-oliveira-campos-49302337"><img height="34" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
+## 📚 Projetos em destaque
+- **Protótipos front-end** (sites responsivos com HTML/CSS/JS)  
+- **E-commerce UI** (carrinho falso para estudos)  
+- **Automação simples em Python**  
+
+---
+
+<div align="center">
+  <p>💙 Obrigado por visitar o meu perfil — sinta-se à vontade para explorar meus repositórios!</p>
+</div>
+
+---
+
+**Notas técnicas**
+
+- Para a foto aparecer no GitHub, faça upload de `foto3x4.jpg` na raiz do repositório e substitua o `src` acima por `https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg`.
+- Os cards de estatísticas usam `github-profile-summary-cards.vercel.app` (serviço público). Se quiser total disponibilidade e contar commits privados, autohospede `github-readme-stats` e eu te passo o passo-a-passo.
+- SVGs são animados via SMIL (atributos `<animate>`). GitHub costuma renderizar essas animações; se não animar, você verá a forma estática — ainda assim visual agradável.
+
   <a href="https://www.youtube.com/@flaviodeoliveiracampos5433"><img height="34" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://www.instagram.com/foc2210"><img height="34" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://discord.com/users/Flaviooc#4509"><img height="34" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
