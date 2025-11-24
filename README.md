@@ -8,7 +8,7 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
 
 <div align="center" markdown="1">
   <!-- Opção local (este caminho funciona no ambiente onde geramos o README) -->
-  <img alt="Flavio (local)" src="/mnt/data/foto3x4.jpg" width="180" style="border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25)"/>
+  <img alt="Flavio (local)" src="https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg" width="180" style="border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25)"/>
   <!-- Depois que subir a foto no GitHub, use a URL RAW pública abaixo (descomente e comente a linha acima) -->
   <!-- <img alt="Flavio (public)" src="https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg" width="180" style="border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25)"/> -->
   <p style="margin-top:8px">Desenvolvendo interfaces limpas, simples e eficientes. 🚀</p>
