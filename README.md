@@ -1,40 +1,69 @@
-# 👋 Olá, eu sou o Flavio!
+<!-- Banner ou apresentação -->
+<h1 align="center">👋 Olá, eu sou o Flavio!</h1>
 
-Sou **Arquiteto** migrando para a área de **Análise e Desenvolvimento de Sistemas**, com interesse em **Front-End**, **Python** e **Segurança de Sistemas**.  
-Gosto de criar interfaces simples, objetivas e funcionais — e estou construindo meu portfólio aqui no GitHub.
-
----
-
-## 🚀 Tecnologias que estou aprendendo
-- **HTML5 • CSS3 • JavaScript**
-- **Python (Fundamentos + Automação)**
-- **Git & GitHub**
-- **Segurança da Informação (conceitos iniciais)**
+<p align="center">
+Arquiteto migrando para a área de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por <strong>Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>.  
+Sempre buscando aprender algo novo e construir projetos práticos aqui no GitHub!
+</p>
 
 ---
 
-## 💻 Projetos em andamento
-- 🌐 **Sites responsivos** usando HTML/CSS/JS  
-- 🛒 **Protótipos de e-commerce front-end**  
-- 🧮 **Sistemas simples em JavaScript** (cálculo, formulários, DOM)  
-- 🖼️ **Animações de fundo em HTML** com imagens rolando continuamente  
-- 📚 Estudos de lógica de programação e boas práticas
+## 🚀 Tecnologias & Ferramentas
+
+### 🌐 Front-End
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+
+### 🐍 Backend & Automação
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+
+### 🔐 Segurança
+<img src="https://img.shields.io/badge/Security%20Basics-000000?style=for-the-badge&logo=probot&logoColor=white">
+
+### 🛠️ Ferramentas
+<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white">
 
 ---
 
-## 🎯 Objetivos
-- Aprimorar minhas habilidades com **Front-End**  
-- Avançar em **Python**, focando em automação e segurança  
-- Montar um portfólio sólido aqui no GitHub  
-- Conseguir minha primeira oportunidade na área de **Desenvolvimento**
+## 💼 Projetos em Destaque
+
+### 🔥 Projetos Front-End
+- 🌐 Sites responsivos com HTML/CSS/JS  
+- 🛒 Protótipo de e-commerce com carrinho  
+- 🖼️ Projetos com **fundo animado infinito**  
+- 📱 Layouts simples e funcionais
+
+### 🧠 Lógica & Scripts
+- 🧮 Sistemas de cálculo com JavaScript  
+- 📋 Formulários inteligentes  
+- 🔧 Pequenas automações com Python
 
 ---
 
-## 📫 Contato
-Se quiser trocar uma ideia ou colaborar em algum projeto:  
-📧 **seu-email-aqui**  
-🔗 LinkedIn: **coloque seu link aqui**
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FlavioOCampos&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioOCampos&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ *Obrigado por visitar meu perfil!
+## 🎯 Objetivos para 2025
+- Aprimorar HTML, CSS e JavaScript  
+- Evoluir em Python (automação e segurança)  
+- Construir portfólio sólido e profissional  
+- Entrar oficialmente na área de Desenvolvimento  
+
+---
+
+## 📫 Como falar comigo
+📧 Email: **coloque seu email aqui**  
+🔗 LinkedIn: **cole seu link aqui**
+
+---
+
+<h3 align="center">⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios!</h3>
