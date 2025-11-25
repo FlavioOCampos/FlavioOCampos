@@ -6,13 +6,6 @@ Arquiteto migrando para a área de <strong>Desenvolvimento</strong>.<br>
 Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>.
 </p>
 
-<div align="center" markdown="1">
-  <!-- Caminho RELATIVO → funciona sempre dentro do próprio repositório -->
-  <img alt="Flavio" src="https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg" width="180">
-  
-  <p style="margin-top:8px">Desenvolvendo interfaces limpas, simples e eficientes. 🚀</p>
-</div>
-
 
 ## 🎯 Minhas Estatísticas
 
