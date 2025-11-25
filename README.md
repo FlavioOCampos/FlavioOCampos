@@ -2,8 +2,9 @@
 <h1 align="center">👋 Oiii! Eu sou o Flavio Campos</h1>
 
 <p align="center">
-Arquiteto migrando para a área de <strong>Desenvolvimento</strong>.<br>
-Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>.
+  Arquiteto em transição para a área de <strong>Análise e Desenvolvimento de Sistemas</strong>, aplicando minha experiência em planejamento, visão técnica e resolução de problemas ao universo da tecnologia.<br><br>
+  Atualmente focado em <strong>Desenvolvimento Front-End</strong>, <strong>Python</strong> e <strong>Segurança da Informação</strong>, criando projetos práticos para fortalecer minha base, evoluir minhas habilidades e construir soluções cada vez mais eficientes.<br><br>
+  Estou sempre explorando novas ferramentas, aprimorando boas práticas e desenvolvendo aplicações voltadas para performance, organização e qualidade de código.
 </p>
 
 
