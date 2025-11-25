@@ -8,7 +8,7 @@ Focado em <strong>Front-End</strong>, <strong>Python</strong> e <strong>Seguran�
 
 <div align="center" markdown="1">
   <!-- Caminho RELATIVO → funciona sempre dentro do próprio repositório -->
-  <img alt="Flavio (perfil)" src="https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg" width="180">
+  <img alt="Flavio" src="https://raw.githubusercontent.com/FlavioOCampos/FlavioOCampos/main/foto3x4.jpg" width="180">
   
   <p style="margin-top:8px">Desenvolvendo interfaces limpas, simples e eficientes. 🚀</p>
 </div>
